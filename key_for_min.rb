@@ -3,8 +3,7 @@
 
 def key_for_min_value(name_hash)
   min_key = 0
-  name_hash.each_value 
-    if #{price} < 
+  name_hash
   
   
   end
