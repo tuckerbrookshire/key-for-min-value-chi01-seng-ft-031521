@@ -3,7 +3,7 @@
 
 def key_for_min_value(name_hash)
   name_hash.each do |item, price|
-    if #{price} <
+    if #{price} < 
     puts item
   end
 end
