@@ -5,3 +5,8 @@ def key_for_min_value(name_hash)
   min_vals = name_hash.collect {|item, price| price}
   min
 end
+
+def key_for_min_value(name_hash)
+  min_vals = name_hash.collect {|item, price| price}
+  min
+end
