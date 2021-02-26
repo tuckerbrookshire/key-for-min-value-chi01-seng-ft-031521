@@ -3,7 +3,7 @@
 
 def key_for_min_value(name_hash)
   min_val = name_hash.collect {|item, price| price}
-    if min_val == 
+  min_val.each  
    
   end
 end
